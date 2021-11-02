@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCronogramaAula", "AppCronogramaAula\AppCronogramaAula.csproj", "{C71C6FAF-C0D3-4598-88A7-02DB33B02F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71C6FAF-C0D3-4598-88A7-02DB33B02F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71C6FAF-C0D3-4598-88A7-02DB33B02F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71C6FAF-C0D3-4598-88A7-02DB33B02F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71C6FAF-C0D3-4598-88A7-02DB33B02F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEECF99-BEA9-4AEA-BD3F-AEC36A475B4D}
+	EndGlobalSection
+EndGlobal

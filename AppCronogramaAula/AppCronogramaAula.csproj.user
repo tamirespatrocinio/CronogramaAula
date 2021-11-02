@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\Acesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaBuscaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaBuscaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaBuscaSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaBuscaTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaBuscaUc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaCadAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaCadProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaCadSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaCadTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TelaCadUc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
